@@ -1,5 +1,5 @@
 # Amazon Sales Assistant
-<img width="1920" height="869" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/1ee1ac6a-0746-46af-86a8-2aa0e239a2f2" />
+<img width="1920" height="869" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/927a5ac3-debf-4d61-86ed-dc7b3a60f902" />
 
 ## Table of contents
 * [General info](#general-info)
