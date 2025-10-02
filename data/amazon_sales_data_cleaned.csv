@@ -1,0 +1,251 @@
+Order ID,Date,Product,Category,Price,Quantity,Payment Method,Status
+ORD0001,2025-03-14,Running Shoes,Footwear,60,3,Debit Card,Cancelled
+ORD0002,2025-03-20,Headphones,Electronics,100,4,Debit Card,Pending
+ORD0003,2025-02-15,Running Shoes,Footwear,60,2,Amazon Pay,Cancelled
+ORD0004,2025-02-19,Running Shoes,Footwear,60,3,Credit Card,Pending
+ORD0005,2025-03-10,Smartwatch,Electronics,150,3,Debit Card,Pending
+ORD0006,2025-03-14,T-Shirt,Clothing,20,1,Credit Card,Pending
+ORD0007,2025-03-18,Smartwatch,Electronics,150,4,PayPal,Completed
+ORD0008,2025-03-02,Smartphone,Electronics,500,1,PayPal,Completed
+ORD0009,2025-03-08,T-Shirt,Clothing,20,3,PayPal,Completed
+ORD0010,2025-03-12,Smartphone,Electronics,500,1,Credit Card,Cancelled
+ORD0011,2025-02-17,Book,Books,15,2,Amazon Pay,Pending
+ORD0012,2025-03-13,Jeans,Clothing,40,4,Credit Card,Completed
+ORD0013,2025-03-01,Laptop,Electronics,800,2,Gift Card,Pending
+ORD0014,2025-03-04,Washing Machine,Home Appliances,600,3,Credit Card,Cancelled
+ORD0015,2025-02-20,Smartwatch,Electronics,150,4,Credit Card,Completed
+ORD0016,2025-02-26,Refrigerator,Home Appliances,1200,1,Credit Card,Cancelled
+ORD0017,2025-04-01,T-Shirt,Clothing,20,1,Amazon Pay,Completed
+ORD0018,2025-02-10,Smartphone,Electronics,500,2,Amazon Pay,Completed
+ORD0019,2025-03-22,Running Shoes,Footwear,60,3,Credit Card,Completed
+ORD0020,2025-03-07,Headphones,Electronics,100,4,Debit Card,Pending
+ORD0021,2025-02-05,Headphones,Electronics,100,3,Debit Card,Cancelled
+ORD0022,2025-03-07,Refrigerator,Home Appliances,1200,4,Credit Card,Pending
+ORD0023,2025-02-23,Book,Books,15,1,Credit Card,Pending
+ORD0024,2025-03-24,Refrigerator,Home Appliances,1200,3,Credit Card,Cancelled
+ORD0025,2025-03-02,Book,Books,15,5,Amazon Pay,Completed
+ORD0026,2025-02-14,Washing Machine,Home Appliances,600,1,Debit Card,Cancelled
+ORD0027,2025-02-07,T-Shirt,Clothing,20,1,Amazon Pay,Pending
+ORD0028,2025-02-03,Headphones,Electronics,100,1,Amazon Pay,Completed
+ORD0029,2025-02-12,Smartphone,Electronics,500,1,Credit Card,Cancelled
+ORD0030,2025-02-10,Washing Machine,Home Appliances,600,3,Gift Card,Cancelled
+ORD0031,2025-03-24,Smartphone,Electronics,500,1,Gift Card,Pending
+ORD0032,2025-03-10,Smartphone,Electronics,500,4,PayPal,Pending
+ORD0033,2025-02-04,Book,Books,15,1,Debit Card,Cancelled
+ORD0034,2025-04-02,T-Shirt,Clothing,20,5,Credit Card,Pending
+ORD0035,2025-04-02,Laptop,Electronics,800,3,Amazon Pay,Completed
+ORD0036,2025-02-09,Refrigerator,Home Appliances,1200,2,PayPal,Cancelled
+ORD0037,2025-02-16,Headphones,Electronics,100,3,Debit Card,Cancelled
+ORD0038,2025-03-26,Laptop,Electronics,800,3,Amazon Pay,Completed
+ORD0039,2025-03-02,Laptop,Electronics,800,2,PayPal,Completed
+ORD0040,2025-03-26,Smartwatch,Electronics,150,1,Gift Card,Pending
+ORD0041,2025-02-20,Book,Books,15,1,Credit Card,Cancelled
+ORD0042,2025-03-17,Headphones,Electronics,100,3,Amazon Pay,Cancelled
+ORD0043,2025-02-08,T-Shirt,Clothing,20,4,Credit Card,Pending
+ORD0044,2025-03-24,Smartwatch,Electronics,150,1,Debit Card,Pending
+ORD0045,2025-03-15,Refrigerator,Home Appliances,1200,3,Credit Card,Pending
+ORD0046,2025-03-06,Running Shoes,Footwear,60,2,Debit Card,Cancelled
+ORD0047,2025-03-26,T-Shirt,Clothing,20,2,Gift Card,Cancelled
+ORD0048,2025-02-11,T-Shirt,Clothing,20,5,Amazon Pay,Completed
+ORD0049,2025-02-18,Smartphone,Electronics,500,4,Debit Card,Completed
+ORD0050,2025-03-14,Jeans,Clothing,40,3,Gift Card,Completed
+ORD0051,2025-02-19,Book,Books,15,1,Gift Card,Cancelled
+ORD0052,2025-02-24,Laptop,Electronics,800,3,Credit Card,Pending
+ORD0053,2025-03-24,Running Shoes,Footwear,60,4,PayPal,Completed
+ORD0054,2025-03-15,Smartwatch,Electronics,150,3,Gift Card,Pending
+ORD0055,2025-03-15,Jeans,Clothing,40,2,PayPal,Completed
+ORD0056,2025-03-19,Smartwatch,Electronics,150,2,Credit Card,Completed
+ORD0057,2025-03-15,Smartphone,Electronics,500,1,Debit Card,Cancelled
+ORD0058,2025-03-13,Smartphone,Electronics,500,1,PayPal,Cancelled
+ORD0059,2025-04-01,Smartwatch,Electronics,150,2,Credit Card,Cancelled
+ORD0060,2025-03-12,Book,Books,15,5,Credit Card,Pending
+ORD0061,2025-03-11,Refrigerator,Home Appliances,1200,1,PayPal,Cancelled
+ORD0062,2025-02-10,Laptop,Electronics,800,5,PayPal,Completed
+ORD0063,2025-03-30,Smartphone,Electronics,500,5,Gift Card,Completed
+ORD0064,2025-02-13,Refrigerator,Home Appliances,1200,4,PayPal,Pending
+ORD0065,2025-03-16,Book,Books,15,3,Amazon Pay,Pending
+ORD0066,2025-03-14,Smartwatch,Electronics,150,2,PayPal,Pending
+ORD0067,2025-03-31,Headphones,Electronics,100,3,Debit Card,Pending
+ORD0068,2025-02-23,Headphones,Electronics,100,1,Debit Card,Cancelled
+ORD0069,2025-02-25,Refrigerator,Home Appliances,1200,4,Gift Card,Pending
+ORD0070,2025-03-10,Book,Books,15,1,Credit Card,Completed
+ORD0071,2025-03-16,Smartwatch,Electronics,150,5,Credit Card,Pending
+ORD0072,2025-03-07,Laptop,Electronics,800,3,Credit Card,Pending
+ORD0073,2025-02-20,Smartphone,Electronics,500,5,Credit Card,Cancelled
+ORD0074,2025-03-25,Refrigerator,Home Appliances,1200,4,Gift Card,Cancelled
+ORD0075,2025-02-26,Headphones,Electronics,100,2,PayPal,Pending
+ORD0076,2025-02-24,Washing Machine,Home Appliances,600,1,Amazon Pay,Completed
+ORD0077,2025-03-20,Headphones,Electronics,100,2,Credit Card,Completed
+ORD0078,2025-03-18,Smartwatch,Electronics,150,2,Gift Card,Cancelled
+ORD0079,2025-03-09,Running Shoes,Footwear,60,2,Gift Card,Cancelled
+ORD0080,2025-02-23,Running Shoes,Footwear,60,4,Debit Card,Pending
+ORD0081,2025-02-26,Headphones,Electronics,100,3,PayPal,Cancelled
+ORD0082,2025-02-24,Smartphone,Electronics,500,3,Debit Card,Cancelled
+ORD0083,2025-02-28,Washing Machine,Home Appliances,600,4,Gift Card,Cancelled
+ORD0084,2025-02-14,T-Shirt,Clothing,20,5,PayPal,Completed
+ORD0085,2025-02-06,Smartphone,Electronics,500,5,PayPal,Completed
+ORD0086,2025-02-25,Smartwatch,Electronics,150,5,PayPal,Cancelled
+ORD0087,2025-03-13,Running Shoes,Footwear,60,5,Debit Card,Completed
+ORD0088,2025-02-06,Refrigerator,Home Appliances,1200,2,Debit Card,Pending
+ORD0089,2025-03-26,Running Shoes,Footwear,60,5,Credit Card,Cancelled
+ORD0090,2025-03-24,Smartwatch,Electronics,150,5,Amazon Pay,Completed
+ORD0091,2025-02-03,Laptop,Electronics,800,4,Gift Card,Pending
+ORD0092,2025-03-15,Smartphone,Electronics,500,2,PayPal,Cancelled
+ORD0093,2025-03-06,Refrigerator,Home Appliances,1200,5,PayPal,Cancelled
+ORD0094,2025-03-25,Jeans,Clothing,40,5,Credit Card,Cancelled
+ORD0095,2025-02-17,Smartwatch,Electronics,150,4,Debit Card,Cancelled
+ORD0096,2025-03-30,Smartwatch,Electronics,150,3,Amazon Pay,Completed
+ORD0097,2025-03-25,Book,Books,15,5,Amazon Pay,Pending
+ORD0098,2025-02-14,Smartwatch,Electronics,150,2,PayPal,Pending
+ORD0099,2025-02-18,Washing Machine,Home Appliances,600,5,Debit Card,Completed
+ORD0100,2025-02-13,Running Shoes,Footwear,60,1,Gift Card,Cancelled
+ORD0101,2025-02-20,Book,Books,15,5,PayPal,Pending
+ORD0102,2025-02-28,Smartphone,Electronics,500,2,PayPal,Pending
+ORD0103,2025-03-14,T-Shirt,Clothing,20,2,PayPal,Pending
+ORD0104,2025-02-22,Jeans,Clothing,40,5,Debit Card,Pending
+ORD0105,2025-03-16,Jeans,Clothing,40,1,Debit Card,Pending
+ORD0106,2025-03-15,T-Shirt,Clothing,20,3,PayPal,Pending
+ORD0107,2025-03-19,Jeans,Clothing,40,3,Credit Card,Cancelled
+ORD0108,2025-03-16,Headphones,Electronics,100,2,PayPal,Pending
+ORD0109,2025-03-17,Jeans,Clothing,40,5,PayPal,Completed
+ORD0110,2025-02-18,Smartphone,Electronics,500,5,Amazon Pay,Pending
+ORD0111,2025-03-31,Laptop,Electronics,800,4,Credit Card,Completed
+ORD0112,2025-03-06,Washing Machine,Home Appliances,600,2,Gift Card,Cancelled
+ORD0113,2025-03-19,Book,Books,15,5,Debit Card,Pending
+ORD0114,2025-02-23,Running Shoes,Footwear,60,1,Credit Card,Pending
+ORD0115,2025-03-21,Running Shoes,Footwear,60,3,Amazon Pay,Completed
+ORD0116,2025-03-19,Laptop,Electronics,800,4,Amazon Pay,Completed
+ORD0117,2025-02-27,T-Shirt,Clothing,20,1,Credit Card,Completed
+ORD0118,2025-02-10,Headphones,Electronics,100,5,Amazon Pay,Completed
+ORD0119,2025-03-16,Smartphone,Electronics,500,2,PayPal,Pending
+ORD0120,2025-02-16,Laptop,Electronics,800,5,PayPal,Completed
+ORD0121,2025-02-18,Smartphone,Electronics,500,1,Gift Card,Pending
+ORD0122,2025-03-28,Laptop,Electronics,800,3,Credit Card,Cancelled
+ORD0123,2025-02-23,Book,Books,15,3,Gift Card,Cancelled
+ORD0124,2025-02-10,Book,Books,15,1,Gift Card,Pending
+ORD0125,2025-02-23,Smartphone,Electronics,500,1,Amazon Pay,Completed
+ORD0126,2025-02-04,Refrigerator,Home Appliances,1200,5,Gift Card,Pending
+ORD0127,2025-02-18,T-Shirt,Clothing,20,3,Debit Card,Completed
+ORD0128,2025-03-23,Smartwatch,Electronics,150,2,PayPal,Cancelled
+ORD0129,2025-02-26,Jeans,Clothing,40,5,Debit Card,Pending
+ORD0130,2025-02-10,Smartwatch,Electronics,150,5,PayPal,Completed
+ORD0131,2025-02-26,Jeans,Clothing,40,2,Credit Card,Pending
+ORD0132,2025-03-07,Smartphone,Electronics,500,2,Debit Card,Pending
+ORD0133,2025-02-23,Laptop,Electronics,800,1,Amazon Pay,Pending
+ORD0134,2025-02-07,Smartphone,Electronics,500,5,Gift Card,Pending
+ORD0135,2025-02-10,T-Shirt,Clothing,20,1,Credit Card,Pending
+ORD0136,2025-02-11,Refrigerator,Home Appliances,1200,2,PayPal,Cancelled
+ORD0137,2025-03-20,Smartwatch,Electronics,150,3,Debit Card,Completed
+ORD0138,2025-02-11,Smartwatch,Electronics,150,5,Credit Card,Cancelled
+ORD0139,2025-03-18,Laptop,Electronics,800,2,PayPal,Cancelled
+ORD0140,2025-03-19,Smartwatch,Electronics,150,2,Debit Card,Completed
+ORD0141,2025-03-21,Smartphone,Electronics,500,2,PayPal,Completed
+ORD0142,2025-03-15,Smartphone,Electronics,500,3,Gift Card,Completed
+ORD0143,2025-03-31,Refrigerator,Home Appliances,1200,2,PayPal,Cancelled
+ORD0144,2025-02-27,Jeans,Clothing,40,2,Gift Card,Cancelled
+ORD0145,2025-03-08,Smartwatch,Electronics,150,2,Debit Card,Cancelled
+ORD0146,2025-03-25,Smartwatch,Electronics,150,2,Debit Card,Completed
+ORD0147,2025-02-05,Running Shoes,Footwear,60,5,PayPal,Pending
+ORD0148,2025-02-06,Headphones,Electronics,100,4,Amazon Pay,Cancelled
+ORD0149,2025-03-20,Running Shoes,Footwear,60,3,Gift Card,Pending
+ORD0150,2025-02-08,Book,Books,15,4,Gift Card,Cancelled
+ORD0151,2025-03-29,Washing Machine,Home Appliances,600,4,Amazon Pay,Pending
+ORD0152,2025-02-28,Smartwatch,Electronics,150,1,Gift Card,Completed
+ORD0153,2025-02-23,Smartwatch,Electronics,150,5,PayPal,Pending
+ORD0154,2025-03-01,Headphones,Electronics,100,2,Debit Card,Completed
+ORD0155,2025-02-05,Refrigerator,Home Appliances,1200,4,Credit Card,Pending
+ORD0156,2025-03-16,Smartwatch,Electronics,150,4,PayPal,Cancelled
+ORD0157,2025-02-08,Smartphone,Electronics,500,3,Credit Card,Pending
+ORD0158,2025-02-24,Laptop,Electronics,800,3,Debit Card,Pending
+ORD0159,2025-02-16,T-Shirt,Clothing,20,2,Gift Card,Cancelled
+ORD0160,2025-02-06,Washing Machine,Home Appliances,600,3,Gift Card,Cancelled
+ORD0161,2025-02-22,Headphones,Electronics,100,1,Credit Card,Completed
+ORD0162,2025-02-09,Smartphone,Electronics,500,2,Credit Card,Completed
+ORD0163,2025-02-20,Running Shoes,Footwear,60,2,PayPal,Completed
+ORD0164,2025-02-25,Smartwatch,Electronics,150,5,Debit Card,Pending
+ORD0165,2025-03-14,Book,Books,15,1,Amazon Pay,Pending
+ORD0166,2025-03-30,Washing Machine,Home Appliances,600,4,Credit Card,Pending
+ORD0167,2025-03-20,Refrigerator,Home Appliances,1200,2,Credit Card,Completed
+ORD0168,2025-03-24,Laptop,Electronics,800,5,Debit Card,Pending
+ORD0169,2025-03-06,Refrigerator,Home Appliances,1200,2,PayPal,Completed
+ORD0170,2025-02-28,Laptop,Electronics,800,1,Gift Card,Pending
+ORD0171,2025-02-28,Smartwatch,Electronics,150,2,PayPal,Completed
+ORD0172,2025-03-12,Book,Books,15,1,Debit Card,Cancelled
+ORD0173,2025-02-28,Refrigerator,Home Appliances,1200,1,PayPal,Completed
+ORD0174,2025-03-13,Smartwatch,Electronics,150,2,Debit Card,Pending
+ORD0175,2025-03-24,Jeans,Clothing,40,5,Debit Card,Cancelled
+ORD0176,2025-03-27,Book,Books,15,1,Amazon Pay,Completed
+ORD0177,2025-03-14,Book,Books,15,5,Credit Card,Pending
+ORD0178,2025-02-06,Smartphone,Electronics,500,3,PayPal,Completed
+ORD0179,2025-03-25,Jeans,Clothing,40,1,PayPal,Cancelled
+ORD0180,2025-03-04,Refrigerator,Home Appliances,1200,3,Gift Card,Completed
+ORD0181,2025-03-03,Running Shoes,Footwear,60,2,Debit Card,Cancelled
+ORD0182,2025-04-02,T-Shirt,Clothing,20,5,PayPal,Completed
+ORD0183,2025-03-25,Washing Machine,Home Appliances,600,1,Debit Card,Pending
+ORD0184,2025-02-17,Book,Books,15,5,Debit Card,Pending
+ORD0185,2025-03-22,T-Shirt,Clothing,20,1,Debit Card,Completed
+ORD0186,2025-03-02,Washing Machine,Home Appliances,600,4,PayPal,Completed
+ORD0187,2025-03-13,Laptop,Electronics,800,3,PayPal,Pending
+ORD0188,2025-02-14,Book,Books,15,1,Amazon Pay,Completed
+ORD0189,2025-02-10,Laptop,Electronics,800,3,Amazon Pay,Completed
+ORD0190,2025-02-23,Running Shoes,Footwear,60,1,PayPal,Completed
+ORD0191,2025-02-28,Jeans,Clothing,40,4,Amazon Pay,Pending
+ORD0192,2025-03-31,Headphones,Electronics,100,3,Gift Card,Pending
+ORD0193,2025-03-30,Book,Books,15,5,Amazon Pay,Pending
+ORD0194,2025-02-20,Jeans,Clothing,40,4,Debit Card,Cancelled
+ORD0195,2025-03-10,Smartphone,Electronics,500,3,Gift Card,Cancelled
+ORD0196,2025-03-04,Headphones,Electronics,100,5,Debit Card,Pending
+ORD0197,2025-03-12,Running Shoes,Footwear,60,2,Gift Card,Completed
+ORD0198,2025-02-20,Laptop,Electronics,800,4,Amazon Pay,Pending
+ORD0199,2025-02-22,Smartphone,Electronics,500,3,Credit Card,Completed
+ORD0200,2025-02-10,Book,Books,15,2,Debit Card,Completed
+ORD0201,2025-02-03,Book,Books,15,4,Credit Card,Completed
+ORD0202,2025-02-21,Smartphone,Electronics,500,2,Credit Card,Cancelled
+ORD0203,2025-02-21,Refrigerator,Home Appliances,1200,3,Debit Card,Completed
+ORD0204,2025-03-08,Running Shoes,Footwear,60,5,Gift Card,Pending
+ORD0205,2025-02-27,Headphones,Electronics,100,2,PayPal,Completed
+ORD0206,2025-02-12,Washing Machine,Home Appliances,600,5,Amazon Pay,Pending
+ORD0207,2025-03-21,Washing Machine,Home Appliances,600,1,Credit Card,Completed
+ORD0208,2025-02-02,Refrigerator,Home Appliances,1200,3,PayPal,Completed
+ORD0209,2025-03-29,Jeans,Clothing,40,5,PayPal,Completed
+ORD0210,2025-03-23,Laptop,Electronics,800,3,PayPal,Completed
+ORD0211,2025-03-13,Smartphone,Electronics,500,1,Gift Card,Pending
+ORD0212,2025-03-09,T-Shirt,Clothing,20,4,Debit Card,Completed
+ORD0213,2025-02-06,Laptop,Electronics,800,1,Amazon Pay,Cancelled
+ORD0214,2025-02-18,Smartwatch,Electronics,150,5,Debit Card,Completed
+ORD0215,2025-03-07,Running Shoes,Footwear,60,1,PayPal,Completed
+ORD0216,2025-03-26,Jeans,Clothing,40,2,Credit Card,Completed
+ORD0217,2025-03-19,Running Shoes,Footwear,60,2,Gift Card,Pending
+ORD0218,2025-02-15,Headphones,Electronics,100,4,Gift Card,Cancelled
+ORD0219,2025-02-17,Headphones,Electronics,100,3,PayPal,Cancelled
+ORD0220,2025-02-10,Smartwatch,Electronics,150,3,Debit Card,Completed
+ORD0221,2025-02-28,Washing Machine,Home Appliances,600,2,Gift Card,Cancelled
+ORD0222,2025-02-16,Washing Machine,Home Appliances,600,2,PayPal,Cancelled
+ORD0223,2025-03-24,Jeans,Clothing,40,2,Amazon Pay,Cancelled
+ORD0224,2025-03-18,Refrigerator,Home Appliances,1200,1,PayPal,Completed
+ORD0225,2025-03-11,Jeans,Clothing,40,1,Gift Card,Cancelled
+ORD0226,2025-03-05,Running Shoes,Footwear,60,4,Amazon Pay,Completed
+ORD0227,2025-04-02,Headphones,Electronics,100,5,Amazon Pay,Cancelled
+ORD0228,2025-02-12,Running Shoes,Footwear,60,1,Credit Card,Pending
+ORD0229,2025-03-21,Running Shoes,Footwear,60,3,Credit Card,Pending
+ORD0230,2025-03-31,Headphones,Electronics,100,4,Amazon Pay,Pending
+ORD0231,2025-02-16,Laptop,Electronics,800,5,Credit Card,Cancelled
+ORD0232,2025-03-14,Refrigerator,Home Appliances,1200,3,Credit Card,Completed
+ORD0233,2025-02-20,Running Shoes,Footwear,60,1,PayPal,Cancelled
+ORD0234,2025-03-08,Book,Books,15,1,Amazon Pay,Cancelled
+ORD0235,2025-03-23,Refrigerator,Home Appliances,1200,1,PayPal,Completed
+ORD0236,2025-03-05,Smartphone,Electronics,500,5,PayPal,Completed
+ORD0237,2025-02-11,Headphones,Electronics,100,3,Debit Card,Cancelled
+ORD0238,2025-03-16,Headphones,Electronics,100,1,PayPal,Completed
+ORD0239,2025-03-22,Smartwatch,Electronics,150,5,Amazon Pay,Completed
+ORD0240,2025-02-09,Smartwatch,Electronics,150,1,Gift Card,Pending
+ORD0241,2025-03-30,Smartphone,Electronics,500,4,Credit Card,Pending
+ORD0242,2025-03-08,Smartphone,Electronics,500,4,Gift Card,Pending
+ORD0243,2025-03-05,Running Shoes,Footwear,60,2,Amazon Pay,Completed
+ORD0244,2025-02-06,Smartphone,Electronics,500,4,Credit Card,Completed
+ORD0245,2025-02-04,Laptop,Electronics,800,1,Credit Card,Cancelled
+ORD0246,2025-03-17,T-Shirt,Clothing,20,2,Debit Card,Cancelled
+ORD0247,2025-03-30,Jeans,Clothing,40,1,Debit Card,Cancelled
+ORD0248,2025-03-05,T-Shirt,Clothing,20,2,Debit Card,Cancelled
+ORD0249,2025-03-08,Smartwatch,Electronics,150,3,Debit Card,Cancelled
+ORD0250,2025-02-19,Smartphone,Electronics,500,4,Amazon Pay,Completed
